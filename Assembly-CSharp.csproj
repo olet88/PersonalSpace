@@ -53,7 +53,14 @@
     <UnityVersion>2020.3.20f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
+=======
+    <Compile Include="Assets\PlayerControlls.cs" />
+    <Compile Include="Assets\CityVoxelPack\DemoScenes\NewBehaviourScript.cs" />
+    <Compile Include="Assets\CharacterMover.cs" />
+    <Compile Include="Assets\FollowPlayer.cs" />
+>>>>>>> main
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Spawn.cs" />

@@ -57,7 +57,7 @@ public class CharacterMover : MonoBehaviour
         else if (Input.GetKey(KeyCode.E))
         {
             transform.Rotate(0, (Time.deltaTime / 10) * clockwise, 0);
-            anim.Play("walking right");
+            anim.Play("walking left");
         }
         else if (Input.GetKey(KeyCode.Q))
         {
