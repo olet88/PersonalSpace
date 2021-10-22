@@ -1,0 +1,5 @@
+*.lock
+temp/
+library/
+Library/
+Temp/
