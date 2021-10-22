@@ -62,6 +62,8 @@
     <Compile Include="Assets\simple modular human\scripts\Test_script.cs" />
     <Compile Include="Assets\PlayerControlls.cs" />
     <Compile Include="Assets\CityVoxelPack\DemoScenes\NewBehaviourScript.cs" />
+    <Compile Include="Assets\ShootableBox.cs" />
+    <Compile Include="Assets\PlayerDamage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\simple modular human\readMe.txt" />
