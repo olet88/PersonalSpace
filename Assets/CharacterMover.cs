@@ -65,7 +65,7 @@ public class CharacterMover : MonoBehaviour
             anim.Play("walking left");
         }
 
-        else if (Input.GetKey(KeyCode.LeftControl))
+        else if (Input.GetKeyDown(KeyCode.LeftControl))
         {
             anim.Play("pistol shooting with recoil");
             audioSource.Play();
