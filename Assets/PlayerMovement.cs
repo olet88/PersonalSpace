@@ -14,6 +14,7 @@ public class PlayerMovement : MonoBehaviour
     private void Start()
     {
         controller = gameObject.AddComponent<CharacterController>();
+        controller.detectCollisions = false;
     }
 
     void Update()
