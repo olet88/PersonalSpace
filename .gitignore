@@ -1,5 +1,6 @@
 *.lock
-temp/
-library/
-Library/
-Temp/
+**temp/
+**library/
+**Library/
+**Temp/
+Logs/
