@@ -1,0 +1,113 @@
+# Exported from 3D Builder
+
+newmtl Mat_0
+Kd 1.000000 1.000000 1.000000
+map_Kd Billboard1_18.png
+
+newmtl Mat_1
+Kd 1.000000 1.000000 1.000000
+map_Kd Billboard1_6.png
+
+newmtl Mat_2
+Kd 1.000000 1.000000 1.000000
+map_Kd Billboard1_20.png
+
+newmtl Mat_3
+Kd 1.000000 1.000000 1.000000
+map_Kd Billboard1_21.png
+
+newmtl Mat_4
+Kd 1.000000 1.000000 1.000000
+map_Kd hotel.png
+
+newmtl Mat_5
+Kd 1.000000 1.000000 1.000000
+map_Kd notif.jpg
+
+newmtl Mat_6
+Kd 1.000000 1.000000 1.000000
+map_Kd coke.png
+
+newmtl Mat_7
+Kd 1.000000 1.000000 1.000000
+map_Kd Atari-Logo-Neon-Sign-Custom-Neon-Signs-24-24_b5dea579-c2ed-4b58-a056-fa049cecd130__65257.1518178665.jpg
+
+newmtl Mat_8
+Kd 1.000000 1.000000 1.000000
+map_Kd de488ea0e129668e390584f1b59b30b4.jpg
+
+newmtl Mat_9
+Kd 1.000000 1.000000 1.000000
+map_Kd pnam.png
+
+newmtl Mat_10
+Kd 1.000000 1.000000 1.000000
+map_Kd buildings_Mat_baseColor_14126322532748253036.png
+
+newmtl Mat_11
+Kd 1.000000 1.000000 1.000000
+map_Kd mm-metaldoordouble.jpg.jpeg
+
+newmtl Mat_12
+Kd 1.000000 1.000000 1.000000
+map_Kd dt_tile_check.jpg.jpeg
+
+newmtl Mat_13
+Kd 1.000000 1.000000 1.000000
+map_Kd 2_c_tiles01.jpg.jpeg
+
+newmtl Mat_14
+Kd 1.000000 1.000000 1.000000
+map_Kd door2.jpg
+
+newmtl Mat_15
+Kd 1.000000 1.000000 1.000000
+map_Kd oven.jpg.jpeg
+
+newmtl Mat_16
+Kd 1.000000 1.000000 1.000000
+map_Kd yu.jpg.jpeg
+
+newmtl Mat_17
+Kd 1.000000 1.000000 1.000000
+map_Kd brmarble.jpg.jpeg
+
+newmtl Mat_18
+Kd 1.000000 1.000000 1.000000
+map_Kd open.jpg.jpeg
+
+newmtl Mat_19
+Kd 1.000000 1.000000 1.000000
+map_Kd light.jpg.jpeg
+
+newmtl Mat_20
+Kd 1.000000 1.000000 1.000000
+map_Kd light_WithBorder_NoMipMap.png
+
+newmtl Mat_21
+Kd 1.000000 1.000000 1.000000
+map_Kd tube.jpg.jpeg
+
+newmtl Mat_22
+Kd 1.000000 1.000000 1.000000
+map_Kd whmarble.jpg.jpeg
+
+newmtl Mat_23
+Kd 1.000000 1.000000 1.000000
+map_Kd sink.png
+
+newmtl Mat_24
+Kd 1.000000 1.000000 1.000000
+map_Kd stove.jpg.jpeg
+
+newmtl Mat_25
+Kd 1.000000 1.000000 1.000000
+map_Kd shelves.jpg.jpeg
+
+newmtl Mat_26
+Kd 1.000000 1.000000 1.000000
+map_Kd 4dd48604ceedf15bfd3433549a32ee46.jpg.jpeg
+
+newmtl Mat_27
+Kd 1.000000 1.000000 1.000000
+map_Kd diner.png
