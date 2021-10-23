@@ -11,6 +11,11 @@ public class Spawner : MonoBehaviour
 
     bool hasSpawned = false;
 
+    void Start()
+    {
+        player=GameObject.FindWithTag("Player");
+    }
+
     // Update is called once per frame
     void Update()
     {
@@ -19,7 +24,7 @@ public class Spawner : MonoBehaviour
             hasSpawned = true;
 
             GameObject clone = Instantiate(enemy, transform.position, transform.rotation);
-            clone.GetComponent<Movement>().Player = player.transform;
+         //   clone.GetComponent<Movement>().player = player.transform;
            // clone.GetComponent<SeekTarget>().rb = clone.GetComponent<Rigidbody>();
         }
     }

@@ -13,6 +13,7 @@ public class Movement : MonoBehaviour
     void Start()
     {
         laserLine = GetComponent<LineRenderer>();
+        player = GameObject.FindWithTag("Player").transform;
     }
 
     // Update is called once per frame
