@@ -1,11 +1,15 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"process_id" : 22604,
 	"version" : "2020.3.20f1",
 	"app_path" : "C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Unity.exe",
 	"app_contents_path" : "C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data"
 =======
 	"process_id" : 15632,
+=======
+	"process_id" : 16948,
+>>>>>>> main
 	"version" : "2020.3.21f1",
 	"app_path" : "C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Unity.exe",
 	"app_contents_path" : "C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data"

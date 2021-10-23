@@ -27,6 +27,8 @@ public class CharacterMover : MonoBehaviour
     bool isRotatingLeft = false;
     bool isRotatingRight = false;
 
+    public bool HasBeer=false;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -36,6 +38,11 @@ public class CharacterMover : MonoBehaviour
         audioSource = this.GetComponent<AudioSource>();
         laserLine = GetComponent<LineRenderer>();
 
+    }
+
+    public void FuckUnity()
+    {
+        HasBeer = true;
     }
 
     // Update is called once per frame
