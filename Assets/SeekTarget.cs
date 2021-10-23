@@ -23,7 +23,7 @@ public class SeekTarget : MonoBehaviour
         // rb.AddTorque(0, 0.1f, 0);
 
 
-        if (Vector3.Distance(target.position, transform.position) > 5)
+        if (Vector3.Distance(target.position, transform.position) > 2)
         {
             rb.AddRelativeForce(0, 0, 1000 * Time.deltaTime);
         }
