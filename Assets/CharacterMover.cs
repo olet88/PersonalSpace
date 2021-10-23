@@ -7,7 +7,7 @@ public class CharacterMover : MonoBehaviour
     public float movementSpeed = 5.0f;
     public float clockwise = 1000.0f;
     public float counterClockwise = -5.0f;
-
+    AudioSource audioSource;
     private Animator anim;
     Rigidbody rigiddbody;
     public float rotateValue=3f;
@@ -22,7 +22,7 @@ public class CharacterMover : MonoBehaviour
         rigiddbody = GetComponent<Rigidbody>();
         anim = GetComponent<Animator>();
         anim.Play("idle");
-
+        audioSource = this.GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -65,9 +65,10 @@ public class CharacterMover : MonoBehaviour
             anim.Play("walking left");
         }
 
-        else if (Input.GetKey(KeyCode.LeftControl))
+        else if (Input.GetKeyDown(KeyCode.LeftControl))
         {
             anim.Play("pistol shooting with recoil");
+            audioSource.Play();
         }
 
         if (Input.anyKey == false)
