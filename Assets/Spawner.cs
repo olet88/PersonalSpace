@@ -19,8 +19,8 @@ public class Spawner : MonoBehaviour
             hasSpawned = true;
 
             GameObject clone = Instantiate(enemy, transform.position, transform.rotation);
-            clone.GetComponent<SeekTarget>().target = player.transform;
-            clone.GetComponent<SeekTarget>().rb = clone.GetComponent<Rigidbody>();
+            clone.GetComponent<Movement>().Player = player.transform;
+           // clone.GetComponent<SeekTarget>().rb = clone.GetComponent<Rigidbody>();
         }
     }
 }
